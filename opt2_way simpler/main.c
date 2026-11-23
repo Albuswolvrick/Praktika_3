@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include <time.h>
-#include "rechner.h"
+#include "rechner_2.h"
 
 static void menue_anzeigen(void) {
     printf("\n===== Rechner =====\n");

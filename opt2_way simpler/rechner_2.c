@@ -1,4 +1,4 @@
-#include "rechner.h"
+#include "rechner_2.h"
 
 /* Addiert a und b; Rueckgabe: Summe a + b. */
 double addiere(double a, double b) {
