@@ -14,4 +14,6 @@ add_executable(praktikum3
         fakultaet.c
         fakultaet_rekursiv.c
         fibonacci_rekursiv.c
-        fibonacci_iterativ.c)
+        fibonacci_iterativ.c
+        "opt2_way simpler/rechner.c"
+        "opt2_way simpler/main.c")
