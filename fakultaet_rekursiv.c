@@ -11,3 +11,4 @@ int fakultaet_rekursiv(int n) {
     }
     return n * fakultaet_rekursiv(n - 1);
 }
+//ldsjkfn

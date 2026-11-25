@@ -11,3 +11,4 @@ double dividiere(double a, double b, int *fehler) {
     *fehler = 0;
     return a / b;
 }
+//jghvhkmg

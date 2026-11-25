@@ -17,4 +17,4 @@ int fakultaet(int n) {
         ergebnis *= i;
     }
     return ergebnis;
-}
+}//hv

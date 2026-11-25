@@ -12,3 +12,4 @@ int fibonacci_rekursiv(int n) {
     }
     return fibonacci_rekursiv(n - 1) + fibonacci_rekursiv(n - 2);
 }
+//ksdhifbjn
